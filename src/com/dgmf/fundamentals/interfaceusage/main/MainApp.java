@@ -1,8 +1,8 @@
-package com.dgmf.fundamentals.main;
+package com.dgmf.fundamentals.interfaceusage.main;
 
-import com.dgmf.fundamentals.interfaces.Hotel;
-import com.dgmf.fundamentals.interfaces.impl.Hilton;
-import com.dgmf.fundamentals.interfaces.impl.Marriot;
+import com.dgmf.fundamentals.interfaceusage.main.interfaces.Hotel;
+import com.dgmf.fundamentals.interfaceusage.main.interfaces.impl.Hilton;
+import com.dgmf.fundamentals.interfaceusage.main.interfaces.impl.Marriot;
 
 public class MainApp {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.dgmf.fundamentals.interfaces;
+package com.dgmf.fundamentals.interfaceusage.main.interfaces;
 
 public interface Hotel {
     String getStartRating();
