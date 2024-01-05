@@ -1,8 +1,8 @@
-package com.dgmf.fundamentals.interfaceusage.main.interfaces.impl;
+package com.dgmf.fundamentals.interfaceusage.impl;
 
-import com.dgmf.fundamentals.interfaceusage.main.interfaces.Hotel;
+import com.dgmf.fundamentals.interfaceusage.interfaces.Hotel;
 
-public class Marriot implements Hotel {
+public class Hilton implements Hotel {
     @Override
     public String getStartRating() {
         return null;
@@ -10,7 +10,7 @@ public class Marriot implements Hotel {
 
     @Override
     public String getHotelName() {
-        return "Marriot";
+        return "Hilton";
     }
 
     @Override

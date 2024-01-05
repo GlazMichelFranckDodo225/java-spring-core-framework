@@ -1,6 +1,6 @@
-package com.dgmf.fundamentals.interfaceusage.main.interfaces.impl;
+package com.dgmf.fundamentals.springioc.impl;
 
-import com.dgmf.fundamentals.interfaceusage.main.interfaces.Hotel;
+import com.dgmf.fundamentals.springioc.interfaces.Hotel;
 
 public class Hilton implements Hotel {
     @Override

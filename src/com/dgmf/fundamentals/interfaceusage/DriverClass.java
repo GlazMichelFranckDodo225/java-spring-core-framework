@@ -1,7 +1,8 @@
-package com.dgmf.fundamentals.interfaceusage.main.interfaces;
+package com.dgmf.fundamentals.interfaceusage;
 
-import com.dgmf.fundamentals.interfaceusage.main.interfaces.impl.Hilton;
-import com.dgmf.fundamentals.interfaceusage.main.interfaces.impl.Marriot;
+import com.dgmf.fundamentals.interfaceusage.impl.Hilton;
+import com.dgmf.fundamentals.interfaceusage.impl.Marriot;
+import com.dgmf.fundamentals.interfaceusage.interfaces.Hotel;
 
 public class DriverClass {
     public static void main(String[] args) {
